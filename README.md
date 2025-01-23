@@ -1,1 +1,6 @@
-# hatsunemiku2
+#include <stdio.h>
+ main()
+{
+printf ("");
+return 0;
+}
